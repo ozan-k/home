@@ -16,7 +16,7 @@ body{
 #navbar_color{
   background-color: #c0f9e9;
   opacity: 0.95;
-  width: 90%;
+  /* width: 90%; */
   margin-right: auto;
   margin-left: auto;
   border-radius: 5px;
